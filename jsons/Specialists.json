@@ -1,0 +1,8 @@
+[
+    {
+        "name": "Cryptanalyst",
+        "science": 1,
+        "greatPersonPoints": {"Great Cryptographer": 3},
+        "color": [20, 240, 255]
+    }
+]

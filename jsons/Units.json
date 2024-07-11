@@ -1,0 +1,19 @@
+[
+    {
+		"name": "Great Cryptographer",
+		"unitType": "Civilian",
+		"uniques": [
+            "Great Person - [Information]",
+            "Can see invisible [Submarine] units <after discovering [Radio]>",
+            "[-1] Sight <in [Foreign Land] tiles>",
+            "Can hurry technology research <while researching [Asymmetric Cryptography]> <if it hasn't used other actions yet>",
+            "Can hurry technology research <while researching [Blockchains]> <if it hasn't used other actions yet>",
+            "Can hurry technology research <while researching [Digital Certificates]> <if it hasn't used other actions yet>",
+            "Can hurry technology research <while researching [Cryptocurrency]> <if it hasn't used other actions yet>",
+            "Promotes all spies [1] time(s) <by consuming this unit>",
+            "Unbuildable",
+            "Uncapturable"
+        ],
+		"movement": 2
+	}
+]

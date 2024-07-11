@@ -1,0 +1,44 @@
+[
+    {
+        "name": "The Cryptographer's Office",
+        "requiredTech": "Cryptography",
+        "requiredBuilding": "Palace",
+        "isNationalWonder": true,
+        "cost": 40,
+        "specialistSlots": {"Cryptanalyst": 1},
+        "uniques": [
+            "Provides [1] [Information]",
+            "Destroyed when the city is captured"
+        ]
+    },
+    {
+        "name": "Cryptanalysis Department",
+        "requiredTech": "Radio",
+        "requiredBuilding": "National Intelligence Agency",
+        "isNationalWonder": true,
+        "cost": 40,
+        "specialistSlots": {"Cryptanalyst": 2},
+        "uniques": [
+            "Provides [1] [Information]",
+            "Destroyed when the city is captured",
+            "Hidden when espionage is disabled"
+        ]
+    },
+    {
+        "name": "Cryptocurrency Exchange",
+        "requiredTech": "Cryptocurrency",
+        "cost": 300,
+        "gold": 1,
+        "specialistSlots": {"Merchant": 1},
+        "uniques": [
+            "[+2]% enemy spy effectiveness [in this city]"
+        ]
+    },
+    {
+        "name": "Cryptocurrency Miners",
+        "requiredTech": "Cryptocurrency",
+        "cost": 350,
+        "maintenance": 2,
+        "gold": 2
+    }
+]

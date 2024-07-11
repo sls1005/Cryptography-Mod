@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Information",
+        "resourceType": "Strategic",
+        "terrainsCanBeFoundOn": [],
+        "revealedBy": "Writing",
+        "uniques": ["Cannot be traded <before discovering [Encryption]>"]
+    }
+]
