@@ -1,8 +1,9 @@
 [
     {
-		"name": "Great Cryptographer",
-		"unitType": "Civilian",
-		"uniques": [
+        "name": "Great Cryptographer",
+        "unitType": "Civilian",
+        "movement": 2,
+        "uniques": [
             "Great Person - [Information]",
             "Can see invisible [Submarine] units <after discovering [Radio]>",
             "[-1] Sight <in [Foreign Land] tiles>",
@@ -13,7 +14,6 @@
             "Promotes all spies [1] time(s) <by consuming this unit>",
             "Unbuildable",
             "Uncapturable"
-        ],
-		"movement": 2
-	}
+        ]
+    }
 ]
