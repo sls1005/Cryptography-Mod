@@ -2,8 +2,10 @@
     {
         "name": "Information",
         "resourceType": "Strategic",
-        "terrainsCanBeFoundOn": [],
         "revealedBy": "Writing",
-        "uniques": ["Cannot be traded <before discovering [Encryption]>"]
+        "uniques": [
+            "Doesn't generate naturally",
+            "Cannot be traded <before discovering [Encryption]>"
+        ]
     }
 ]
